@@ -1,3 +1,5 @@
 Git is a distributed control system.
 Cit is free software.
 Git is a version control system.
+
+测试一条中文记录
